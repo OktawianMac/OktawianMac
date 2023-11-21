@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @OktawianMac
+- 👋 Hi, I’m Oktawian Maciejewski known as @OktawianMac
 - 👀 I’m interested in games, music and coding.
-- 🌱 I’m currently learning frontend 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning frontend and working on some projects 
 - 📫 How to reach me...
 
 <!---
